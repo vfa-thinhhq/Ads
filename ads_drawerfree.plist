@@ -3,16 +3,14 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>admob</key>
+		<key>adm</key>
 		<string>ca-app-pub-9950422312776897/2514914961</string>
-		<key>startapp_id</key>
+		<key>start_id</key>
 		<string>203506071</string>
-		<key>startapp_user</key>
+		<key>start_user</key>
 		<string>103224906</string>
-		<key>app</key>
-		<string>DrawerFree</string>
-		<key>isgoogle</key>
-		<false/>
+		<key>isgg</key>
+		<integer>0</integer>
 	</dict>
 </array>
 </plist>
