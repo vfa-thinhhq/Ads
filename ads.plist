@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>google</key>
+		<false/>
+		<key>startapp</key>
+		<true/>
+		<key>app</key>
+		<string>DrawerFree</string>
+	</dict>
+	<dict>
+		<key>google</key>
+		<false/>
+		<key>startapp</key>
+		<true/>
+		<key>app</key>
+		<string>DrawerPro</string>
+	</dict>
+	<dict>
+		<key>google</key>
+		<false/>
+		<key>startapp</key>
+		<true/>
+		<key>app</key>
+		<string>DrawerFree</string>
+	</dict>
+	<dict>
+		<key>google</key>
+		<false/>
+		<key>startapp</key>
+		<true/>
+		<key>app</key>
+		<string>DrawerFree</string>
+	</dict>
+	<dict>
+		<key>google</key>
+		<false/>
+		<key>startapp</key>
+		<true/>
+		<key>app</key>
+		<string>DrawerFree</string>
+	</dict>
+	<dict>
+		<key>google</key>
+		<false/>
+		<key>startapp</key>
+		<true/>
+		<key>app</key>
+		<string>DrawerFree</string>
+	</dict>
+</array>
+</plist>
