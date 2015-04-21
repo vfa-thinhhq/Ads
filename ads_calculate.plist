@@ -11,6 +11,8 @@
 		<string>103880633</string>
 		<key>isgoogle</key>
 		<integer>1</integer>
+		<key>ishideads</key>
+		<integer>0</integer>
 	</dict>
 </array>
 </plist>
