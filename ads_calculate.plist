@@ -10,9 +10,9 @@
 		<key>startapp_user</key>
 		<string>103880633</string>
 		<key>isgoogle</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>ishideads</key>
-		<integer>1</integer>
+		<integer>0</integer>
 	</dict>
 </array>
 </plist>
