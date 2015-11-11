@@ -3,7 +3,7 @@
 <plist version="1.0">
 <array>
 	<dict>
-	  <key>ishideads</key>
+	  <key>is_updated</key>
 		<integer>0</integer>
 	</dict>
 </array>
