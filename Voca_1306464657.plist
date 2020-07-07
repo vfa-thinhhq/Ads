@@ -4,9 +4,9 @@
 <array>
 	<dict>
 		<key>showFull</key>
-		<false/>
-		<key>showBanner</key>
 		<true/>
+		<key>showBanner</key>
+		<false/>
 		<key>showVideo</key>
 		<true/>
 	</dict>
