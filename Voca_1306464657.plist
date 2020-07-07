@@ -6,9 +6,9 @@
 		<key>showFull</key>
 		<true/>
 		<key>showBanner</key>
-		<false/>
+		<true/>
 		<key>showVideo</key>
-		<false/>
+		<true/>
 	</dict>
 </array>
 </plist>
