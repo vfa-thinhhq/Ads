@@ -11,7 +11,7 @@
 		<true/>
 		<key>showATT</key>
 		<true/>
-		<key>showDone</key>
+		<key>showCustom</key>
 		<false/>
 	</dict>
 </array>
