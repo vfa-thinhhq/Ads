@@ -9,6 +9,10 @@
 		<true/>
 		<key>showVideo</key>
 		<true/>
+		<key>showATT</key>
+		<true/>
+		<key>showCustom</key>
+		<true/>
 	</dict>
 </array>
 </plist>
