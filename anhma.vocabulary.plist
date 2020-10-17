@@ -4,13 +4,13 @@
 <array>
 	<dict>
 		<key>showFull</key>
-		<true/>
+		<false/>
 		<key>showBanner</key>
 		<true/>
 		<key>showVideo</key>
-		<true/>
+		<false/>
 		<key>showCustom</key>
-		<true/>
+		<false/>
 		<key>showATT</key>
 		<true/>
 	</dict>
