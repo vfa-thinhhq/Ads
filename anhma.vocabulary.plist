@@ -4,11 +4,11 @@
 <array>
 	<dict>
 		<key>showFull</key>
-		<false/>
+		<true/>
 		<key>showBanner</key>
 		<true/>
 		<key>showVideo</key>
-		<false/>
+		<true/>
 		<key>showCustom</key>
 		<false/>
 		<key>showATT</key>
