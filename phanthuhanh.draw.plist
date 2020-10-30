@@ -10,7 +10,7 @@
 		<key>showVideo</key>
 		<true/>
 		<key>showATT</key>
-		<true/>
+		<false/>
 		<key>showCustom</key>
 		<false/>
 	</dict>
