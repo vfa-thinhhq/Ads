@@ -13,6 +13,8 @@
 		<false/>
 		<key>showATT</key>
 		<false/>
+		<key>heightBanner</key>
+		<60/>
 	</dict>
 </array>
 </plist>
