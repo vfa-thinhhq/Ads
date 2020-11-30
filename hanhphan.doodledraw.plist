@@ -12,11 +12,11 @@
 		<key>showCustom</key>
 		<false/>
 		<key>showATT</key>
-		<true/>
+		<false/>
 		<key>heightBanner</key>
-		<integer>65</integer>
+		<integer>55</integer>
 		<key>randomFull</key>
-		<integer>4</integer>
+		<integer>2</integer>
 	</dict>
 </array>
 </plist>
