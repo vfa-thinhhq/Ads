@@ -12,7 +12,7 @@
 		<key>showCustom</key>
 		<true/>
 		<key>showATT</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
