@@ -10,9 +10,9 @@
 		<key>showVideo</key>
 		<true/>
 		<key>showCustom</key>
-		<false/>
+		<true/>
 		<key>showATT</key>
-		<false/>
+		<true/>
 		<key>heightBanner</key>
 		<integer>55</integer>
 		<key>randomFull</key>
