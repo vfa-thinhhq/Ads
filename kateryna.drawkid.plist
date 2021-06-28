@@ -10,7 +10,7 @@
 		<key>showBanner</key>
 		<true/>
 		<key>showVideo</key>
-		<false/>
+		<true/>
 		<key>showCustom</key>
 		<false/>
 		<key>showATT</key>
