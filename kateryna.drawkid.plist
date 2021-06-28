@@ -12,7 +12,7 @@
 		<key>showVideo</key>
 		<true/>
 		<key>showCustom</key>
-		<false/>
+		<true/>
 		<key>showATT</key>
 		<true/>
 		<key>ban</key>
