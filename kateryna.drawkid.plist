@@ -4,9 +4,9 @@
 <array>
 	<dict>
 		<key>isPublic</key>
-		<false/>
+		<true/>
 		<key>showFull</key>
-		<false/>
+		<true/>
 		<key>showBanner</key>
 		<true/>
 		<key>showVideo</key>
