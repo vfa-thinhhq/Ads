@@ -3,7 +3,7 @@
 <plist version="1.0">
 <array>
 	<dict><key>isPublic</key>
-		<true/>
+		<false/>
 		<key>showFull</key>
 		<true/>
 		<key>showBanner</key>
