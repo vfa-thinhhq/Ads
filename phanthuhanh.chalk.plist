@@ -6,11 +6,11 @@
 		<key>showFull</key>
 		<true/>
 		<key>showBanner</key>
-		<false/>
+		<true/>
 		<key>showVideo</key>
 		<true/>
 		<key>showCustom</key>
-		<true/>
+		<false/>
 		<key>showATT</key>
 		<true/>
 	</dict>
