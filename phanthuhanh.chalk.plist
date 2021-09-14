@@ -6,7 +6,7 @@
 		<key>showFull</key>
 		<true/>
 		<key>showBanner</key>
-		<true/>
+		<false/>
 		<key>showVideo</key>
 		<true/>
 		<key>showCustom</key>
