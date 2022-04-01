@@ -9,9 +9,9 @@
 		<true/>
 		<key>showVideo</key>
 		<true/>
-		<key>showCustom</key>
+		<key>showCustomAds</key>
 		<true/>
-		<key>showATT</key>
+		<key>showPublic</key>
 		<false/>
 	</dict>
 </array>
