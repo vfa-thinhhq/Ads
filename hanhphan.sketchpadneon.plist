@@ -9,7 +9,7 @@
 		<true/>
 		<key>showVideo</key>
 		<true/>
-		<key>showCustom</key>
+		<key>showCB</key>
 		<false/>
 		<key>showATT</key>
 		<true/>
