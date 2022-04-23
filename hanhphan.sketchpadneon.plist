@@ -6,7 +6,7 @@
 		<key>showFull</key>
 		<true/>
 		<key>showBanner</key>
-		<false/>
+		<true/>
 		<key>showVideo</key>
 		<true/>
 		<key>showCustom</key>
@@ -14,7 +14,7 @@
 		<key>showATT</key>
 		<true/>
 		<key>showCB</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
