@@ -11,7 +11,7 @@
 		<true/>
 		<key>showCustom</key>
 		<true/>
-		<key>showATT</key>
+		<key>showPublic</key>
 		<true/>
 	</dict>
 </array>
