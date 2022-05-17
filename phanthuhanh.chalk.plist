@@ -10,7 +10,7 @@
 		<key>showVideo</key>
 		<true/>
 		<key>showCustomAds</key>
-		<false/>
+		<true/>
 		<key>showPublic</key>
 		<false/>
 	</dict>
