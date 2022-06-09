@@ -16,9 +16,9 @@
 		<key>showAdmob</key>
 		<true/>
 		<key>showCB</key>
-		<false/>
+		<true/>
 		<key>showIR</key>
-		<false/>
+		<true/>
 	</dict>
 </array>
 </plist>
