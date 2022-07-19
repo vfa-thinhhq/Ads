@@ -14,9 +14,9 @@
 		<key>showATT</key>
 		<true/>
 		<key>showCB</key>
-		<true/>
+		<false/>
 		<key>showIR</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
