@@ -13,10 +13,12 @@
 		<true/>
 		<key>showATT</key>
 		<true/>
+		<key>showIR</key>
+		<false/>
 		<key>showCB</key>
 		<false/>
 		<key>showAC</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
