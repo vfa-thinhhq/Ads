@@ -17,6 +17,8 @@
 		<false/>
 		<key>showIR</key>
 		<false/>
+		<key>showAC</key>
+		<true/>
 	</dict>
 </array>
 </plist>
