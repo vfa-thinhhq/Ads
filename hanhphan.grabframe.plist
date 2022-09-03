@@ -16,7 +16,7 @@
 		<key>showCB</key>
 		<true/>
 		<key>showIR</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
