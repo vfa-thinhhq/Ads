@@ -16,7 +16,7 @@
 		<key>showIR</key>
 		<false/>
 		<key>showCB</key>
-		<true/>
+		<false/>
 		<key>showAC</key>
 		<false/>
 	</dict>
