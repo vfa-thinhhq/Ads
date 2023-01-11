@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>showFull</key>
-		<true/>
+		<false/>
 		<key>showBanner</key>
 		<true/>
 		<key>showVideo</key>
