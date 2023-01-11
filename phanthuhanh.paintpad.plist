@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>showFull</key>
-		<false/>
+		<true/>
 		<key>showBanner</key>
 		<true/>
 		<key>showVideo</key>
@@ -16,7 +16,7 @@
 		<key>showCB</key>
 		<false/>
 		<key>showAL</key>
-		<false/>
+		<true/>
 	</dict>
 </array>
 </plist>
