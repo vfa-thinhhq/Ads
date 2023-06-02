@@ -11,8 +11,8 @@
 		<true/>
 		<key>showCustom</key>
 		<true/>
-		<key>showATT</key>
-		<true/>
+		<key>showCB</key>
+		<false/>
 	</dict>
 </array>
 </plist>
