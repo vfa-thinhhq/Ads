@@ -4,15 +4,15 @@
 <array>
 	<dict>
 		<key>showFull</key>
-		<true/>
+		<false/>
 		<key>showBanner</key>
-		<true/>
+		<false/>
 		<key>showVideo</key>
 		<true/>
 		<key>showCustomAds</key>
-		<false/>
-		<key>showPublic</key>
 		<true/>
+		<key>showPublic</key>
+		<false/>
 	</dict>
 </array>
 </plist>
