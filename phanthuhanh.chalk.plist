@@ -12,7 +12,7 @@
 		<key>showCustomAds</key>
 		<true/>
 		<key>showPublic</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
