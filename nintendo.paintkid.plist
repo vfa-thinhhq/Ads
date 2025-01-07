@@ -12,7 +12,7 @@
 		<key>showCustom</key>
 		<true/>
 		<key>showPublic</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
