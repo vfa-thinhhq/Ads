@@ -10,9 +10,9 @@
 		<key>showVideo</key>
 		<true/>
 		<key>showCustomAds</key>
-		<true/>
-		<key>showPublic</key>
 		<false/>
+		<key>showPublic</key>
+		<true/>
 	</dict>
 </array>
 </plist>
